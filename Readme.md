@@ -15,6 +15,11 @@ https://github.com/sani-iman-pribadi/phpextjs_standart/archive/master.zip
 Desktop version
 https://github.com/sani-iman-pribadi/phpextjs_desktop/archive/master.zip
 
+# PHPExtJS License
+PHPExtJS open source project and distributed under the GNU GENERAL PUBLIC LICENSE Version 3 (GNU GPLv3).
+
+The text of the official GNU GPLv3 license is available on the www.gnu.org website.
+
 # PHPExtJS/app
 
 This folder contains the javascript files for the application.
